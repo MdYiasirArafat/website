@@ -117,12 +117,12 @@ footer{
     line-height: 50px;
 }
 /* Mobile View*/
-@media (max-width:768px){
+@media (max-width:600px){
     .text p{
         width: 369px;
     }
     .navbar{
-        padding: 25px;
+        padding: 0px;
     }
     header{
         height: 200px;
@@ -132,4 +132,13 @@ footer{
     }
     .form1 input {
         padding: 4px 25px}
+        footer{
+            width: 122%;
+            height: 30%;
+        }
+        .logo{
+            font-size: 26px;
+            padding: 10px;
+            
+        }
 }
