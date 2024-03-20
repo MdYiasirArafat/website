@@ -124,4 +124,12 @@ footer{
     .navbar{
         padding: 25px;
     }
+    header{
+        height: 200px;
+    }
+    .form1{
+        padding: 0px 0px;
+    }
+    .form1 input {
+        padding: 4px 25px}
 }
