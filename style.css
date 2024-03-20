@@ -119,7 +119,7 @@ footer{
 /* Mobile View*/
 @media (max-width:600px){
     .text p{
-        width: 369px;
+        width: 280px;
     }
     .navbar{
         padding: 0px;
@@ -135,7 +135,7 @@ footer{
     .form1 input {
         padding: 4px 25px}
         footer{
-            width: 100%;
+            width: 88%;
             height: 40%;
         }
         .logo{
