@@ -129,12 +129,14 @@ footer{
     }
     .form1{
         padding: 0px 0px;
+        font-size: 20px;
+        margin-top: 12px;
     }
     .form1 input {
         padding: 4px 25px}
         footer{
             width: 122%;
-            height: 30%;
+            height: 40%;
         }
         .logo{
             font-size: 26px;
