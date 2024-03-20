@@ -116,3 +116,12 @@ footer{
     background-color: black;
     line-height: 50px;
 }
+/* Mobile View*/
+@media (max-width:768px){
+    .text p{
+        width: 369px;
+    }
+    .navbar{
+        padding: 25px;
+    }
+}
